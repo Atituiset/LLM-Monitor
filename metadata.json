@@ -1,0 +1,6 @@
+{
+  "name": "LLM Ops Monitor",
+  "description": "Professional performance and health monitoring platform for SGLang and vLLM serving frameworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
